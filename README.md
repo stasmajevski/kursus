@@ -45,8 +45,6 @@ ssh greeny_username@greeny.cs.tlu.ee
 * [1. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/1.ea-kodutoo)
 * 2. kodutöö
 * 3. kodutöö
-* 4. kodutöö
-
 * [projekt](https://github.com/eesrakenduste-arendamine-2017k/ea-projekt-2017k)
 
 **Kodused tööd peavad olema lõplikult valmis eksamiajaks. Pikendust pärast eksamiaega paranduste tegemiseks ei saa!**
