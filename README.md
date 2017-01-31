@@ -4,7 +4,6 @@
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 * **Testserver:** lin2.tlu.ee, greeny.cs.tlu.ee
 * **Tunni näited:** [~romil/ea17k](http://minitorn.cs.tlu.ee/~romil/ea2017k)
-* **Rühmad:** [I rühm](https://github.com/eesrakenduste-arendamine-2017k?utf8=%E2%9C%93&query=-I-ruhm), [II rühm](https://github.com/eesrakenduste-arendamine-2017k?utf8=%E2%9C%93&query=-II-ruhm),
 
 ### Ühendus Greeny'sse
 
@@ -43,10 +42,10 @@ ssh greeny_username@greeny.cs.tlu.ee
 
 ## Kodused tööd ja projektid
 
-* ([1. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/1.ea-kodutoo))
-* ([2. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/2.ea-kodutoo))
-* ([3. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/3.ea-kodutoo))
-* ([4. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/4.ea-kodutoo))
+* [1. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/1.ea-kodutoo)
+* 2. kodutöö
+* 3. kodutöö
+* 4. kodutöö
 
 * [projekt](https://github.com/eesrakenduste-arendamine-2017k/ea-projekt-2017k)
 
@@ -54,7 +53,7 @@ ssh greeny_username@greeny.cs.tlu.ee
 
 ### GitHub'i töövoog
 
-1. *Fork*'i ülesande/projekti repositoorium (leiab [https://github.com/veebirakenduste-kasutajaliidesed-2016k](https://github.com/veebirakenduste-kasutajaliidesed-2016k)).
+1. *Fork*'i ülesande/projekti repositoorium (leiab [https://github.com/eesrakenduste-arendamine-2017k/](https://github.com/eesrakenduste-arendamine-2017k/)).
 1. *Clone*'i see repositoorium enda arvutisse/serverisse ja määra repositooriumi URL kuhu edaspidi muudatusi salvestad.
   ```
   git clone https://USERNAME@github.com/USERNAME/REPOSITORY.git
@@ -114,12 +113,12 @@ Need rakenduvad ka päris elus!
 
 ### Kohustuslik materjal
 
-On välja toodud tundide loetelu juures vastavalt igale tunnile.
+Välja toodud tundide loetelu juures vastavalt igale tunnile.
 
 ### Soovituslik lugemine
 
 * [Kliendipoolsed veebirakendused](http://www.tlu.ee/~jaagup/skriptkeeled/kliendirakendused.pdf)
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 * [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript)
@@ -134,7 +133,6 @@ On välja toodud tundide loetelu juures vastavalt igale tunnile.
 * [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) [(video)](https://www.youtube.com/watch?v=iSxNCYcPAFk)
 * [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html)
 * [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/)
-* [HTML5 Rocks slides](http://slides.html5rocks.com/)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JS: The Right Way](http://www.jstherightway.org/)
 * [Code School](https://www.codeschool.com/paths/javascript)
