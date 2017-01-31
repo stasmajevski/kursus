@@ -91,12 +91,50 @@ Need rakenduvad ka päris elus!
     * Loomingulisus (NB! nõuded peavad olema täidetud)
 
 ## Kursus
-
 ### 1. tund
 
 1. Sissejuhatus
     * Veebiprogrammeerimise aine kokkuvõte
     * Arutleme, mis antud kursus endas hõlmab
+1. Ajalugu
+    * ECMAScript
+    * iframe > XMLHttpRequest > AJAX
+1. JS kasutusvaldkonnad
+    * Lehtede interaktiivseks muutmine ([awwwards](http://www.awwwards.com), [cssdesignawards](http://www.cssdesignawards.com))
+    * Võrgu koormuse vähendamine
+    * AJAX
+    * Vormide valideerimine
+    * WebSocket ([Chat](http://socket.io/get-started/chat/))
+    * Mängud ja meelelahutus ([threeJS](https://threejs.org))
+    * Brauserite lisateegid
+1. JS piirangud
+    * Andmete kirjutamine serverisse
+    * Ligipääs andmebaasidele
+    * Ligipääs failisüsteemile
+    * Akende sulgemine
+    * Lõimtöötlus
+    * Ligipääs teistele veebilehtedele
+    * Browserite erinevused
+1. Turvalisus
+   * JS koodile ligipääs
+   * `window.opener` näide ([On the security implications of window.opener.location.replace()](https://blog.whatever.io/2015/03/07/on-the-security-implications-of-window-opener-location-replace/) by julio)
+1. Tunnis kasutatavad tööriistad
+1. Javascript'is programmeerimine, näidisrakenduse loomine
+    * muutujad, funktsioonid, aeg, sündmuste kuulamine, dokumendi muutmine
+1. [1. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/1.ea-kodutoo)
+1. **Kohustuslik järgmiseks korrasks!**
+   * **Vaata kuidas ja mis järjekorras JS ning brauser koostööd teevad [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts**
+   * **Singleton muster [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani**
+
+### 2. tund
+
+1. JS rakenduse ülesehitus (objektorienteeritud kood)
+    * JS "use strict" – [w3schools](http://www.w3schools.com/js/js_strict.asp), [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
+    * *single-page-application* artikli põhjal [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
+    * Kasutame Singleton mustrit (Loe kindlasti mustrite kohta lähemalt [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani)
+
+### Praktikum 
+[1. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/1.ea-kodutoo) lõpetamine + küsimused
 
 ## Materjalid ja tööriistad
 
